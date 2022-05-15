@@ -1,4 +1,4 @@
-# LED-Notification
+# ThunderBirds-LED-Notification
 Ardunio and React Native Combination to make LED Notification
 I was asked to build a project, that mimicked the thunderbirds notification system from Season 1 Episode 1. Can be seen in the link down below.   
 
@@ -11,5 +11,6 @@ wanting a call. <br> <br>
 This is the video of the final project <br> 
 ![Youtube Video Link](https://youtube.com/shorts/nm_e2X9FdPg)
 
-
+### The Arudnio Code folder
+This contains the arundio code for the backend of the application, the rest of the code is for the react native application
 
