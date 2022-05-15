@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "CallHome",
+    "slug": "Thunderbirds",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.gelljord.Thunderbirds"
+    }
+  },
+  "name": "CallHome"
+}
