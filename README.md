@@ -14,6 +14,6 @@ This is the video of the final project <br>
 ### The Arudnio Code folder
 This contains the arundio code for the backend of the application, the rest of the code is for the react native application
 
-<br>  Here is an image of the final project working. <br> 
+<br>  Here is an image of the final project working. 
 ![Image](https://github.com/CurlzG/ThunderBirds-LED-Notification/blob/main/Thunderbirds%20LED.jpg)
 
