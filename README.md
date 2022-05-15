@@ -17,3 +17,5 @@ This contains the arundio code for the backend of the application, the rest of t
 <br>  Here is an image of the final project working. 
 ![Image](https://github.com/CurlzG/ThunderBirds-LED-Notification/blob/main/Thunderbirds%20LED.jpg)
 
+#### Future Updates
+For the next update if the project, I would like to look at the idea of using screens, where they would make video calls inside of the project and or if someone is looking at the pictures, changing the image, would be a fun idea. 
